@@ -4,7 +4,7 @@ EnderChest-Plugin-Command-MC
 Open source EnderChest command plugin to be editable your way.
 
 ### Information:
-Versions Minecraft: 1.8.X, 1.9.X, 1.10.X, 1.11.X, 1.12.X, 1.13.X, 1.14.X, 1.15.X, 1.16.X.
+Versions Minecraft: 1.8.X, 1.9.X, 1.10.X, 1.11.X, 1.12.X, 1.13.X, 1.14.X, 1.15.X, 1.16.X, 1.17.X.
 
 Plugin Version: 1.0.1
 
