@@ -1,7 +1,7 @@
 name: EnderChest
 version: ${project.version}
 main: happyrogelio7.enderchest.EnderChest
-api-version: 1.16
+api-version: 1.18
 authors: [ HappyRogelio7 ]
 description: EnderChest Command plugin
 website: https://github.com/HappyRogelio7
