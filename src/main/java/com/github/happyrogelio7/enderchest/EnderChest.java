@@ -1,10 +1,9 @@
-package happyrogelio7.enderchest;
+package com.github.happyrogelio7.enderchest;
 
-import happyrogelio7.enderchest.Commands.EnderChestCommand;
-import happyrogelio7.enderchest.Commands.EnderChestHelpCommand;
+import com.github.happyrogelio7.enderchest.Commands.EnderChestCommand;
+import com.github.happyrogelio7.enderchest.Commands.EnderChestHelpCommand;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Bukkit;
-import org.bukkit.command.CommandExecutor;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class EnderChest extends JavaPlugin {
