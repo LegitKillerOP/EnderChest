@@ -14,7 +14,7 @@ JARS: Spigot, Paper, Purpur.
 
 ## Download
 
-[Donwload 1.0.2 / Minecraft Version Support 1.8.8 - 1.20 ](https://github.com/HappyRogelio7/SEPARE-WORLD-ITEMS/blob/master/SepareWorldItems-Downloads/Updates/SepareWorldItems-1.2.20.jar)
+[Donwload 1.0.2 / Minecraft Version Support 1.8.8 - 1.20 ](https://github.com/HappyRogelio7/EnderChest-Plugin-Command-MC/blob/master/Downloads/1.0.2/EnderChest-1.0.2.jarr)
 
 
 ---
