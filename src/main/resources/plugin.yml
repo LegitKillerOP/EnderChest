@@ -1,10 +1,9 @@
 name: EnderChest
 version: ${project.version}
-main: com.github.happyrogelio7.enderchest.EnderChest
+main: com.legit.enderchest.EnderChest
 api-version: 1.16
-authors: [ HappyRogelio7 ]
+authors: [Legit Killer]
 description: EnderChest Command plugin
-website: https://github.com/HappyRogelio7
 commands:
 
   enderchest:

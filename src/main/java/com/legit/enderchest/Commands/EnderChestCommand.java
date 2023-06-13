@@ -1,6 +1,6 @@
-package com.github.happyrogelio7.enderchest.Commands;
+package com.legit.enderchest.Commands;
 
-import com.github.happyrogelio7.enderchest.EnderChest;
+import com.legit.enderchest.EnderChest;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
@@ -20,7 +20,7 @@ public class EnderChestCommand implements CommandExecutor {
         return ChatColor.translateAlternateColorCodes('&', text);
     }
 
-    String prefix = msgcolor("&5[&dEnderChest&5]&r ");
+    String prefix = msgcolor("&e[&6EnderChest&e]&r ");
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
